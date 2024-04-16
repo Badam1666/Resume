@@ -21,7 +21,7 @@ Data Analyst.
 EMAIL = "adam.bouhouhou@gmail.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
+    "LinkedIn": "https://www.linkedin.com/in/adambouhouhou/",
     "GitHub": "https://github.com",
     "Twitter": "https://twitter.com",
 }
