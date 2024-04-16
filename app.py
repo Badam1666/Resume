@@ -12,13 +12,13 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "Digital CV | Adam Bouhouhou"
 PAGE_ICON = ":wave:"
-NAME = "John Doe"
+NAME = "Adam Bouhouhou"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Data Analyst.
 """
-EMAIL = "johndoe@email.com"
+EMAIL = "adam.bouhouhou@gmail.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin.com",
